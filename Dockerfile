@@ -9,4 +9,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Procfile utilisation via gunicorn-worker? Ici on lance directement
-CMD ["python", "discord_bot.py"]
+CMD ["python", "discord_draft_bot.py"]
