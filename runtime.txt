@@ -1,1 +1,5 @@
-
+aiohttp
+discord.py
+riotwatcher
+openai
+beautifulsoup4
